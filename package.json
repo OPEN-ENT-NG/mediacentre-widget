@@ -1,0 +1,15 @@
+{
+  "name": "mediacentre-widget",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OPEN-ENT-NG/mediacentre-widget.git"
+  },
+  "author": "Forge OPEN ENT NG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OPEN-ENT-NG/mediacentre-widget/issues"
+  },
+  "homepage": "https://github.com/OPEN-ENT-NG/mediacentre-widget#readme"
+}
