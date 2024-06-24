@@ -4,7 +4,6 @@
   "mediacentre.widget.more": "voir plus",
   "mediacentre.widget.empty": "Aucune ressource favorite",
 
-  "universalis.title": "Universalis",
-  "universalis.no.uai": "UAI non renseigné",
-  "universalis.search": "Rechercher dans Universalis"
+  "mediacentre.widget.universalis.no.uai": "UAI non renseigné",
+  "mediacentre.widget.universalis.search": "Rechercher dans Universalis"
 }
